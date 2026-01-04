@@ -1,0 +1,10 @@
+path: "/scratch/gcassell/odyssea/Odyssea/data/datasets/seadronessee/Compressed_Version"
+train: images/train
+val: images/val
+
+names:
+  0: swimmer
+  1: boat
+  2: jetski
+  3: life_saving_appliances
+  4: buoy
